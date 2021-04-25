@@ -4,5 +4,4 @@
 	[] flask-migrate
 
 # Fazes do projeto
-	[] Servir um Hello World
-	
+	[x] Servir um Hello World
